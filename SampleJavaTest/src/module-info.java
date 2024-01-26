@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author PABLO
- *
- */
-module SampleJavaTest {
-}
