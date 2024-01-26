@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author PABLO
+ *
+ */
+module SampleJavaTest {
+}
